@@ -3,7 +3,7 @@
 
   
 
-## on Ubuntu:
+## on Ubuntu/mint:
 
   
 **install rust:** 
